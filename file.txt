@@ -1,0 +1,10 @@
+ligands_1.pdb Mol_1.pdb
+ligands_2.pdb Molecule_2.pdb
+ligands_3.pdb Mol_3.pdb
+ligands_4.pdb Mol_4.pdb
+ligands_5.pdb Ligand_5.pdb
+ligands_6.pdb Mol_6.pdb
+ligands_7.pdb protein.pdb
+ligands_8.pdb Mol_8.pdb
+ligands_9.pdb Mol_9.pdb
+ligands_10.pdb Mol_10.pdb
